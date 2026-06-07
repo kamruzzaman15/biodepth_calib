@@ -1,9 +1,5 @@
 # BioDepth-Calib: Evaluating LLM Alignment on Biosecurity Questions
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)
-![Status](https://img.shields.io/badge/status-Part%20I%20Complete-green.svg)
-
 Can language models be both **helpful** and **safe** when answering biosecurity questions? 
 
 **BioDepth-Calib** is an empirical framework to measure this tradeoff. We quantify how well LLMs handle defensive biosecurity Q&A without escalating to operational procedures.
@@ -20,8 +16,6 @@ We evaluated **Qwen2.5-3B** and **Gemma-3-4B** on 100 prompts across 5 biosecuri
 | Refusal consistency | **0% flips across framings** ✓ |
 
 **Verdict**: Both models are safe for deployment in educational and defensive contexts.
-
-Read the full [Results Summary](RESULTS_SUMMARY.md) or [Technical Documentation](README.md).
 
 ---
 
@@ -189,7 +183,6 @@ Both models achieved:
 | **Framing sensitivity** | 0.396 C-delta | **0.326 C-delta** |
 | **Best for** | Education | High-stakes |
 
-→ [Full results](RESULTS_SUMMARY.md)
 
 ---
 
@@ -311,9 +304,3 @@ MIT License — see [LICENSE](LICENSE) file for details.
 
 This project is for **defensive biosecurity research only**. It is not intended to enable harm. All models are evaluated to ensure they **do not** provide operational escalation for dangerous activities.
 
-If you observe a model providing O4/O5 content (specific procedures beyond public baseline), please report it confidentially to [your contact].
-
----
-
-**Last Updated**: June 2, 2026  
-**Status**: Part I Complete | Part II in Planning
