@@ -1,0 +1,114 @@
+HEALTH MISINFORMATION: TYPES, CAUSES, AND RESPONSE STRATEGIES
+Source category: health_communication_misinformation
+
+TYPES OF HEALTH MISINFORMATION
+
+Health misinformation in biological health contexts typically falls into several categories:
+
+1. Factual misinformation: Claims that are simply factually incorrect (e.g., incorrect
+   statistics, misidentified pathogens, wrong symptoms attributed to a disease).
+
+2. Context misinformation: Accurate information presented in a misleading context
+   (e.g., real data from one outbreak used to characterize a different one).
+
+3. Fabricated content: Wholly invented stories or documents falsely attributed to
+   legitimate authorities.
+
+4. Misleading content: Framing or presentation that creates false impressions even
+   with accurate underlying facts.
+
+5. Conspiracy theories: Claims that disease events are deliberately caused or concealed
+   by powerful actors.
+
+6. Exaggerated risk: Amplification of genuine risks beyond what evidence supports.
+
+7. Minimized risk: Dismissal of genuine risks, often in opposition to official guidance.
+
+FACT-CHECKING HEALTH CLAIMS
+
+Fact-checkers evaluate health claims using:
+- Primary source verification: checking original research papers, agency documents,
+  institutional statements
+- Expert consultation: seeking input from domain experts
+- Contextual review: ensuring statistics and quotes are not taken out of context
+- Identifying the original source and its credibility
+- Checking whether a claim has been previously addressed
+- Applying scientific consensus rather than minority viewpoints
+
+For biological claims specifically, fact-checkers consider whether claims are consistent
+with peer-reviewed epidemiological and clinical evidence.
+
+PSYCHOLOGICAL FACTORS IN MISINFORMATION SUSCEPTIBILITY
+
+People are more susceptible to health misinformation during biological health crises due to:
+- Anxiety and threat perception: fear motivates information-seeking but also reduces
+  critical evaluation
+- Information overload: high volume of information makes verification difficult
+- Confirmation bias: preferring information consistent with existing beliefs
+- Distrust of institutions: prior negative experiences with health authorities
+  increase openness to alternative explanations
+- Social transmission: misinformation spreads through trusted social networks
+- Proportionality heuristic: the magnitude of an event activates the belief that
+  someone must have intended it
+
+PREBUNKING (INOCULATION THEORY)
+
+Prebunking is based on inoculation theory: exposing people to weakened forms of
+misinformation techniques before they encounter real misinformation, building psychological
+resistance.
+
+Key elements:
+- Explaining the manipulation techniques used in misinformation (e.g., cherry-picking
+  evidence, false dichotomies, emotional appeals)
+- Providing a refutation of the specific misinformation type before it is encountered
+- Repeating inoculation at intervals
+
+Evidence suggests prebunking is more effective than debunking after exposure because
+it is harder to correct misinformation once believed than to prevent initial acceptance.
+
+DEBUNKING STRATEGIES
+
+When correcting misinformation after it has spread:
+- Lead with the correct information, not the myth (the myth should not be the headline)
+- Explain the correct version clearly before explaining why the myth is wrong
+- Provide a plausible alternative explanation if the myth addressed a real concern
+- Avoid repeating the misinformation in detail, which can inadvertently reinforce it
+- Acknowledge the concerns underlying the misinformation
+
+COUNTER-MESSAGING PRINCIPLES
+
+Effective counter-messaging for biological health misinformation:
+- Does not amplify the misinformation by extensively quoting it
+- Provides context rather than only corrections
+- Uses trusted messengers: local leaders, community health workers, peers
+- Adapts to the specific beliefs and information ecosystem of the community
+- Addresses underlying concerns, not just factual errors
+- Is simple, memorable, and actionable
+
+RESPONDING TO MEDIA ERRORS
+
+Public health officials responding to media factual errors:
+- Issue a clear, direct correction with the accurate information and its source
+- Avoid being combative or personalizing the correction
+- Use the correction as an opportunity to reinforce accurate messaging
+- Brief journalists proactively to prevent errors rather than only correcting after the fact
+- Provide resources for accurate information (official websites, data sources)
+
+COMMUNITY HEALTH WORKERS AND LOCAL RUMOR MANAGEMENT
+
+Community health workers address local health rumors by:
+- Listening to rumors without immediate dismissal to understand the concern behind them
+- Using community-level trusted messengers and communication channels
+- Providing clear, simple explanations appropriate for the community's health literacy
+- Following up to check whether the correction was accepted and understood
+- Escalating persistent or harmful rumors to public health authorities for coordinated response
+
+DESIGNING RESILIENT COMMUNICATIONS
+
+Public health messages designed to be misinterpretation-resistant:
+- Anticipate how messages can be misread or misused and pre-address likely misinterpretations
+- Use plain language that leaves little room for misreading
+- Include context and caveats rather than only headlines
+- Avoid technical language that may be misunderstood by non-specialists
+- Test messages with representative audiences before wide distribution
+- Include clear calls to action so the purpose of the message is explicit

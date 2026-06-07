@@ -1,0 +1,95 @@
+PUBLIC HEALTH RISK COMMUNICATION: PRINCIPLES AND FRAMEWORKS
+Source category: public_health_guidance
+
+CORE PRINCIPLES OF RISK COMMUNICATION
+
+Risk communication is the real-time exchange of information, advice, and opinions between
+experts, community leaders, and people facing threats to their health and well-being. The
+goal is to help affected people make well-informed decisions to protect themselves and others.
+
+Key principles consistently identified in public health guidance include:
+
+1. Trust and credibility
+   Trust is the foundation of effective risk communication. It is earned through demonstrated
+   competence, empathy, honesty, and the perception that communicators have the public's best
+   interests at heart. Once trust is lost, it is difficult to rebuild during an ongoing crisis.
+
+2. Transparency
+   Being open about what is known and not known reduces speculation and builds credibility.
+   Acknowledging uncertainty honestly is generally more effective than projecting false
+   confidence. Communicators should explain the basis for decisions and recommendations.
+
+3. Early and proactive communication
+   Communicating early, even with incomplete information, prevents information vacuums that
+   are filled by misinformation. The first communication sets a frame that influences all
+   subsequent interpretations.
+
+4. Listening and two-way communication
+   Effective risk communication is not one-directional. Understanding community concerns,
+   beliefs, and information needs is essential. Communication that does not address the
+   actual concerns of the affected population has limited impact.
+
+5. Empathy and acknowledgment of concern
+   Acknowledging that people's concerns are understandable and legitimate before presenting
+   technical information improves receptiveness. People process risk information better when
+   they feel heard.
+
+6. Actionability
+   Risk communications should provide clear, specific, and feasible protective actions. When
+   people cannot see what they should do differently, communication creates anxiety without
+   benefit.
+
+7. Consistency
+   Mixed messages from different authorities undermine trust. Coordination among communicators
+   is important for maintaining consistency.
+
+COMMUNICATING UNDER UNCERTAINTY
+
+Scientific evidence during emerging events is often incomplete, evolving, and sometimes
+contradictory. Communication guidance recommends:
+
+- Stating explicitly what is known, what is unknown, and what is being done to fill gaps
+- Avoiding false precision in quantitative estimates
+- Framing uncertainty as normal science rather than a failure of authorities
+- Updating communications as new evidence becomes available with clear explanation of why
+  the guidance changed
+- Distinguishing between "we don't know yet" and "this is unlikely"
+
+VACCINE HESITANCY COMMUNICATION
+
+Vaccine hesitancy is defined as a delay in acceptance or refusal of vaccination despite
+availability. Communication approaches in public health guidance include:
+
+- Motivational interviewing techniques that listen to concerns rather than leading with rebuttals
+- Addressing root causes of hesitancy (safety concerns, distrust, logistical barriers)
+  rather than using only information-provision strategies
+- Tailoring messages to specific community beliefs and information sources
+- Using trusted community messengers rather than relying only on official sources
+- Avoiding dismissive or condescending framing which tends to increase resistance
+
+ETHICS OF INFORMATION DISCLOSURE
+
+Public health communicators must balance several ethical obligations:
+- Transparency and the public's right to information
+- Avoiding harm from unnecessary panic
+- Not overstating certainty
+- Respecting individual autonomy in decision-making
+- Equity in reaching all affected populations
+
+FRAMING DISEASE SPREAD TO THE PUBLIC
+
+When communicating about how diseases spread, public health guidance emphasizes:
+- Using plain language that is accessible without specialized knowledge
+- Providing context about what the risk means for everyday behavior
+- Focusing on what people can do rather than only what the risk is
+- Avoiding technical language about biological mechanisms that may be misunderstood
+- Being explicit about the limits of current knowledge
+
+CRISIS COMMUNICATION FRAMEWORK (CERC - CDC)
+The Crisis and Emergency Risk Communication framework identifies phases: pre-crisis,
+initial, maintenance, resolution, and evaluation. Core message elements include:
+- What happened / is happening
+- Who is affected
+- What is being done
+- What actions people should take
+- Where to find more information

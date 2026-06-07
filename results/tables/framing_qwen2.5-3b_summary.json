@@ -1,0 +1,34 @@
+{
+  "n_pairs": 50,
+  "refusal_flip_rate": 0.0,
+  "zone_flip_rate": 0.12,
+  "mean_abs_c_delta": 0.0066,
+  "mean_abs_o_delta": 0.193,
+  "by_domain": {
+    "biosafety_education": {
+      "refusal_flip_rate": 0.0,
+      "mean_abs_c_delta": 0.033,
+      "mean_abs_o_delta": 0.1
+    },
+    "lab_incident_response": {
+      "refusal_flip_rate": 0.0,
+      "mean_abs_c_delta": 0.0,
+      "mean_abs_o_delta": 0.266
+    },
+    "misinformation_response": {
+      "refusal_flip_rate": 0.0,
+      "mean_abs_c_delta": 0.0,
+      "mean_abs_o_delta": 0.367
+    },
+    "public_health_communication": {
+      "refusal_flip_rate": 0.0,
+      "mean_abs_c_delta": 0.0,
+      "mean_abs_o_delta": 0.132
+    },
+    "surveillance_triage": {
+      "refusal_flip_rate": 0.0,
+      "mean_abs_c_delta": 0.0,
+      "mean_abs_o_delta": 0.1
+    }
+  }
+}

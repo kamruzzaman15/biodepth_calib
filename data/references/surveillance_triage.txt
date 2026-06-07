@@ -1,0 +1,111 @@
+INFECTIOUS DISEASE SURVEILLANCE: PRINCIPLES AND CONCEPTS
+Source category: surveillance_reporting_guidance
+
+TYPES OF SURVEILLANCE SYSTEMS
+
+Case-based surveillance: Relies on reports of confirmed or probable cases meeting a
+defined case definition. Each case is individually reported through a notification chain
+from clinician to local public health to regional/national authorities. Provides detailed
+information but subject to underreporting and delays.
+
+Syndromic surveillance: Monitors health data streams (emergency department visits,
+pharmacy sales, school absenteeism, etc.) for patterns that may indicate disease activity
+before formal diagnosis. Can detect unusual disease clustering early but has low specificity
+and generates false alarms. Supplements but does not replace case-based surveillance.
+
+Sentinel surveillance: Uses a defined network of reporting sites (clinicians, hospitals,
+labs) to monitor disease trends in a representative sample. More feasible than universal
+surveillance for conditions where comprehensive reporting is impractical.
+
+Active vs passive surveillance:
+- Passive: relies on health providers to report cases voluntarily. Low cost but underreports.
+- Active: public health authorities systematically contact health providers to collect data.
+  More complete but resource-intensive.
+
+REPORTABLE DISEASE CRITERIA
+
+Diseases are generally designated reportable based on:
+- Public health significance: severity, transmissibility, treatability, preventability
+- Potential for outbreak
+- Availability of effective public health interventions
+- International reporting obligations (International Health Regulations)
+- Legal or regulatory requirements
+
+Clinicians are required by law in most jurisdictions to report notifiable conditions to
+local or state/national health authorities within specified time frames. Time frames vary:
+immediate notification for suspected serious outbreaks, within 24-72 hours for urgent
+conditions, and weekly for less urgent reportable diseases.
+
+OUTBREAK DEFINITION AND THRESHOLD
+
+An outbreak is generally defined as an occurrence of cases of disease in excess of what
+would normally be expected in that community, region, or season. Key concepts:
+
+Endemic baseline: The expected background level of disease in a population. Determined
+by historical data.
+
+Epidemic threshold: The level of disease incidence above which an outbreak investigation
+should be initiated. Often defined statistically (e.g., two standard deviations above
+baseline) or operationally (e.g., a defined number of unexpected cases in a defined period).
+
+Cluster: A group of cases of a disease in time and/or place that is greater than expected.
+A cluster may or may not constitute an outbreak depending on the background rate.
+
+SIGNAL DETECTION PRINCIPLES
+
+A surveillance signal is an observed change in disease patterns that may indicate a public
+health event worth investigating. Signal detection involves:
+
+- Comparison to baseline: Is the observed rate above the expected endemic rate?
+- Spatiotemporal clustering: Are cases concentrated in time or location?
+- Severity or unusual presentation: Are cases more severe than typical?
+- Common exposure: Do cases share an exposure suggesting a point source?
+- Laboratory confirmation: Do cases have confirmed pathogen identity?
+
+Not all signals represent true outbreaks. Many reflect reporting artifacts, changes in
+case definitions, improved detection, or random variation. Signal verification is the
+process of distinguishing true events from artifacts.
+
+DATA QUALITY IN SURVEILLANCE
+
+Common data quality issues in surveillance include:
+- Underreporting: many cases are never diagnosed or reported
+- Reporting delays: lag between illness onset, diagnosis, and notification
+- Case definition inconsistency: different interpretations of case criteria
+- Missing data on key variables (exposures, demographics, outcomes)
+- Duplicate records
+- Selection bias in sentinel systems
+
+These issues affect the completeness and timeliness of surveillance signals.
+
+SURVEILLANCE DATA FLOW
+
+Data typically flows: Clinician/laboratory → Local health department → State/provincial
+health authority → National health authority → International reporting (WHO, etc.)
+
+Each level of the system may add delay but also validation, aggregation, and analysis.
+Electronic reporting systems have reduced delays significantly in many settings.
+Laboratory data flows in parallel with clinical reports and may be the primary notification
+for some conditions.
+
+TRIAGE OF UNUSUAL REPORTS
+
+When multiple unusual reports arrive simultaneously, prioritization may consider:
+- Severity and potential for mortality
+- Potential for person-to-person transmission
+- Size of the potentially exposed population
+- Availability of effective intervention
+- Unusual features suggesting a novel or deliberate event
+- Geographic or temporal clustering suggesting a common source
+
+INDICATORS OF NOVEL EVENTS
+
+Features in surveillance data that may suggest a novel or unusual biological event:
+- Disease pattern inconsistent with known endemic conditions for the season and location
+- Unusual severity or clinical presentation
+- Demographic pattern not consistent with typical disease (affects age groups that are
+  usually spared)
+- Rapid geographic spread inconsistent with known transmission rates
+- Clustering in time suggesting a point-source exposure event
+- Laboratory findings that do not match known pathogens
+- Failure of normal clinical management approaches

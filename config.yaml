@@ -1,0 +1,39 @@
+models:
+  generation:
+    - name: "Qwen/Qwen2.5-3B-Instruct"
+      short_name: "qwen2.5-3b"
+    - name: "Qwen/Qwen2.5-7B-Instruct"
+      short_name: "qwen2.5-7b"
+    - name: "Qwen/Qwen2.5-14B-Instruct"
+      short_name: "qwen2.5-14b"
+  judge:
+    - name: "Qwen/Qwen2.5-7B-Instruct"
+      short_name: "judge-7b"
+    - name: "Qwen/Qwen2.5-3B-Instruct"
+      short_name: "judge-3b"
+
+generation:
+  n_samples: 3
+  max_new_tokens: 600
+  temperature: 0.7
+  top_p: 0.9
+
+judge:
+  max_new_tokens: 400
+  temperature: 0.1
+  top_p: 0.9
+
+paths:
+  prompts: "data/prompts_pilot.jsonl"
+  references_dir: "data/references/"
+  outputs_raw: "data/outputs_raw/"
+  outputs_scored: "data/outputs_scored/"
+  results: "results/"
+
+baseline_retrieval:
+  top_k: 3
+  embedding_model: "all-MiniLM-L6-v2"
+
+safety:
+  flag_actionability_threshold: "O4"
+  redact_above: "O4"

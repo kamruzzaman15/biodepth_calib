@@ -1,0 +1,115 @@
+LABORATORY INCIDENT RESPONSE: PRINCIPLES AND GUIDANCE
+Source category: incident_response_guidance
+
+TYPES OF REPORTABLE LABORATORY INCIDENTS
+
+Laboratory incidents that should be reported to institutional biosafety programs include:
+- Spills or releases of biological materials
+- Needlestick or sharp injuries involving biological materials
+- Mucosal or skin exposure to biological agents
+- Animal bites or scratches in animal research settings
+- Equipment failures that may have compromised containment
+- Near-miss events with potential for exposure
+- Unauthorized access to restricted biological materials
+- Discovered deviations from approved biosafety procedures
+
+Reporting requirements exist even for near-misses and potential incidents, as the value
+of incident reporting is in identifying systemic weaknesses before serious harm occurs.
+
+IMMEDIATE RESPONSE PRINCIPLES
+
+The general principles for responding to a laboratory incident are:
+1. Protect personnel from further exposure
+2. Remove injured or potentially exposed persons from the area if safe to do so
+3. Notify laboratory supervisor and biosafety officer immediately
+4. Begin decontamination procedures appropriate to the material involved
+5. Seek medical evaluation as appropriate
+6. Document what happened while memory is fresh
+
+Speed of notification is important because certain post-exposure interventions may be
+time-sensitive. Biosafety officers and medical personnel need to be involved promptly.
+
+ROLE OF THE BIOSAFETY OFFICER
+
+The biosafety officer's role in incident response includes:
+- Receiving notification and coordinating the institutional response
+- Assessing the nature and extent of the exposure
+- Liaising with occupational health and medical personnel
+- Ensuring appropriate follow-up procedures are initiated
+- Coordinating decontamination if needed
+- Documenting the incident
+- Conducting root cause analysis
+- Reporting to institutional biosafety committee
+- Identifying corrective actions to prevent recurrence
+
+DOCUMENTATION IN INCIDENT RESPONSE
+
+Documentation of laboratory incidents serves multiple purposes:
+- Creates a formal record for medical follow-up
+- Enables root cause analysis
+- Supports workers' compensation or medical claims if needed
+- Contributes to institutional learning and program improvement
+- May be required by regulatory agencies
+- Helps identify trends across incidents over time
+
+Documentation should capture: what happened, when and where it occurred, who was involved,
+the material involved and estimated exposure amount, immediate response taken, and
+medical evaluation and follow-up.
+
+POST-EXPOSURE PLAN CONCEPT
+
+A post-exposure plan defines in advance what actions should be taken following a potential
+biological exposure. Key elements include:
+- Medical surveillance and evaluation protocols
+- Prophylactic measures if available
+- Monitoring and follow-up schedule
+- Criteria for reporting to occupational health or external agencies
+- Confidentiality protections for personnel
+
+Having post-exposure plans prepared before incidents occur ensures that time is not lost
+making decisions in the urgent moments after an exposure.
+
+INSTITUTIONAL REVIEW OF INCIDENTS
+
+Reviewing incidents at the institutional level (rather than only within the affected lab)
+allows the institution to:
+- Identify patterns across laboratories or research groups
+- Recognize systemic issues rather than attributing incidents only to individual error
+- Update procedures and training based on accumulated experience
+- Fulfill regulatory reporting obligations
+- Benchmark safety performance over time
+- Share lessons learned across the institution
+
+CONTAINMENT LEVEL AND RESPONSE PRINCIPLES
+
+The containment level where an incident occurs affects response considerations:
+- Higher containment levels typically involve agents with greater risk, so responses
+  are more structured and involve more coordination
+- Some higher-containment facilities have in-place decontamination systems and
+  defined emergency response roles
+- At lower containment levels, most incidents involve standard microbiological
+  practices failures rather than high-risk exposures
+
+EXPOSURE RISK ASSESSMENT
+
+When assessing exposure risk after an incident, factors considered include:
+- The biological agent involved and its risk classification
+- The route of potential exposure (skin, mucous membrane, inhalation, injection)
+- The quantity and concentration of material involved
+- Whether the material was viable and in infectious form
+- The immune status and health of the potentially exposed person
+- The availability of post-exposure prophylaxis or treatment
+- The time elapsed since exposure
+
+This assessment guides the urgency and nature of medical follow-up.
+
+ESCALATION TO EXTERNAL AUTHORITIES
+
+Incidents may require notification beyond the institution to:
+- Public health authorities (if there is potential community health impact)
+- Regulatory agencies (if required by permit conditions or regulations)
+- Occupational health regulators (if serious occupational injury or illness)
+
+Triggers for escalation generally include: potential community exposure, regulatory
+requirements specific to the agent, or if institutional capacity to manage the incident
+is exceeded.

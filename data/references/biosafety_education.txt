@@ -1,0 +1,114 @@
+BIOSAFETY EDUCATION: PRINCIPLES AND CONCEPTS
+Source category: biosafety_education_resources
+
+BIOSAFETY LEVEL FRAMEWORK
+
+Biosafety levels (BSL) are a set of containment precautions required to isolate dangerous
+biological agents in an enclosed facility. The levels are graded from 1 (lowest risk) to
+4 (highest risk), based on the agent's risk group classification.
+
+BSL-1: Work with agents not known to consistently cause disease in healthy adults. Standard
+microbiological practices are followed. No special primary or secondary barriers required
+beyond a sink for handwashing.
+
+BSL-2: Work with agents associated with human disease of moderate potential hazard to
+personnel and the environment. All BSL-1 practices plus limited access, biohazard warning
+signs, "sharps" precautions, and a defined biosafety manual. Biosafety cabinet (BSC) used
+for potential aerosol-generating procedures.
+
+BSL-3: Work with indigenous or exotic agents with potential for aerosol transmission
+and that may cause serious or potentially lethal disease. All BSL-2 practices plus
+controlled access, decontamination of all waste, laboratory clothes not worn outside lab,
+baseline serum samples for personnel, and use of BSC for all manipulations.
+
+BSL-4: Work with dangerous and exotic agents that pose a high individual risk of aerosol-
+transmitted infections and for which no vaccine or therapy is available. Maximum containment.
+All BSL-3 practices plus full-body, air-supplied positive pressure personnel suit OR class
+III BSC.
+
+RISK ASSESSMENT IN BIOSAFETY
+
+A biological risk assessment considers:
+- Agent characteristics: risk group, virulence, infective dose, route of transmission,
+  stability, host range, availability of treatment or prophylaxis
+- Laboratory procedures to be performed: potential for aerosol generation, sharps use,
+  large volumes, work with high concentrations
+- Personnel factors: training, experience, immune status, potential vulnerability
+- Facility features: existing containment equipment, access controls, decontamination
+  capability
+
+The outcome of risk assessment determines the appropriate biosafety level and additional
+controls required.
+
+STANDARD MICROBIOLOGICAL PRACTICES
+
+Standard microbiological practices are the baseline safety requirements applicable in all
+biological laboratories. They include:
+- Access limited to authorized personnel
+- No eating, drinking, smoking, or application of cosmetics in the laboratory
+- Prohibition of mouth pipetting
+- Handwashing before leaving the laboratory
+- Minimizing aerosol generation
+- Decontaminating work surfaces after completing procedures
+- Proper disposal of contaminated materials
+- Personal protective equipment appropriate to the task
+
+HIERARCHY OF CONTROLS IN BIOSAFETY
+
+From most to least preferred:
+1. Elimination - remove the hazard entirely
+2. Substitution - replace with less hazardous agent or procedure
+3. Engineering controls - biosafety cabinets, ventilation, physical containment
+4. Administrative controls - standard operating procedures, training, restricted access
+5. Personal protective equipment - the last line of defense
+
+BIOSAFETY CABINETS
+
+Biosafety cabinets provide a primary containment barrier:
+- Class I: Provides personnel and environmental protection but not product protection;
+  inward airflow only
+- Class II (Types A1, A2, B1, B2): Provides personnel, environmental, and product
+  protection; HEPA-filtered supply and exhaust air; most commonly used in biosafety
+  work; Type B2 is fully ducted to outside
+- Class III: Fully enclosed, gas-tight cabinet with glove ports; provides highest level
+  of personnel and environmental protection; used in BSL-4
+
+SAFETY CULTURE
+
+A positive safety culture is characterized by:
+- Shared values and commitment to safety across all levels
+- Open communication about safety concerns without fear of punishment
+- Leadership that models and reinforces safe behavior
+- Learning from incidents and near-misses
+- Ongoing training and competency assessment
+- Recognition that safety rules are based on real risks, not bureaucratic requirements
+
+INSTITUTIONAL BIOSAFETY COMMITTEES
+
+An Institutional Biosafety Committee (IBC) is responsible for:
+- Reviewing and approving research involving biological hazards
+- Ensuring compliance with applicable regulations and guidelines
+- Reviewing biosafety procedures and accident reports
+- Establishing emergency procedures
+- Serving as the institutional authority for recombinant DNA and biological research
+- Providing oversight of biosafety training programs
+
+PPE SELECTION PRINCIPLES
+
+PPE selection follows the hierarchy of controls principle - PPE is used in conjunction
+with, not as a substitute for, other controls. Selection criteria include:
+- The specific hazard and route of exposure
+- The level of protection required based on risk assessment
+- Task-specific requirements
+- Compatibility with other PPE and work tasks
+- Training requirements
+- Limitations of the equipment
+
+AEROSOL RISK IN BIOSAFETY
+
+Aerosol generation is a key risk factor in biological work because:
+- Infectious aerosols can reach the respiratory tract, which is an efficient infection route
+- Aerosols are invisible and may persist in air
+- Many common laboratory procedures generate aerosols (centrifugation, pipetting, vortexing)
+- The potential for aerosol generation determines when a biosafety cabinet is required
+  and at which containment level work should be performed

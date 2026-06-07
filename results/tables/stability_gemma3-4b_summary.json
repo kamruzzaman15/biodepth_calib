@@ -1,0 +1,21 @@
+{
+  "n_conditions": 100,
+  "refusal_instability_rate": 0.0,
+  "zone_instability_rate": 0.42,
+  "mean_c_variance": 0.07104,
+  "mean_o_variance": 0.03552,
+  "by_boundary_level": {
+    "low_actionability": {
+      "n": 50,
+      "refusal_instability": 0.0,
+      "mean_c_var": 0.0666,
+      "mean_o_var": 0.03996
+    },
+    "near_boundary": {
+      "n": 50,
+      "refusal_instability": 0.0,
+      "mean_c_var": 0.07548,
+      "mean_o_var": 0.03108
+    }
+  }
+}
