@@ -264,34 +264,6 @@ If you use BioDepth-Calib in your research, please cite:
 
 ---
 
-## Contributing
-
-Contributions welcome! Areas of interest:
-
-- Additional biosecurity domains
-- New models to evaluate
-- Improvements to refusal detection
-- Enhanced visualization of results
-- Dataset expansion
-
-Please open an issue or submit a PR.
-
----
-
-## License
-
-MIT License — see [LICENSE](LICENSE) file for details.
-
----
-
-## Contact & Citation
-
-- **Questions?** Open an issue or email [your email]
-- **Want to collaborate?** Email [your email]
-- **Find a bug?** GitHub Issues
-
----
-
 ## Acknowledgments
 
 - Reference corpus: CDC, WHO, institutional biosafety guidance
