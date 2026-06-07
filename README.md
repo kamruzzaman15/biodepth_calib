@@ -45,21 +45,6 @@ We had no rigorous way to measure this tradeoff—until now.
 - CUDA-capable GPU (RTX 3090 or equivalent, 12GB+ VRAM recommended)
 - 100GB+ free disk for model weights
 
-### Setup
-
-```bash
-# Clone the repo
-git clone https://github.com/yourusername/biodepth-calib.git
-cd biodepth-calib
-
-# Create virtual environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
 ### Download Models
 
 Models are auto-downloaded from Hugging Face on first run:
@@ -238,22 +223,6 @@ print(f"Found {len(high_action)} O3 responses")
 
 ---
 
-## Citation
-
-If you use BioDepth-Calib in your research, please cite:
-
-```bibtex
-@software{biodepth_calib_2026,
-  title = {BioDepth-Calib: Empirical Evaluation Framework for LLM Biosecurity Alignment},
-  author = {Your Name},
-  year = {2026},
-  url = {https://github.com/yourusername/biodepth-calib},
-  note = {Part I: Response Classification}
-}
-```
-
----
-
 ## Roadmap: Part II
 
 - [ ] Multi-judge disagreement analysis (Qwen vs Gemma vs Llama as judges)
@@ -263,16 +232,4 @@ If you use BioDepth-Calib in your research, please cite:
 - [ ] Fine-tuning for improved C-scores with maintained O-floor
 
 ---
-
-## Acknowledgments
-
-- Reference corpus: CDC, WHO, institutional biosafety guidance
-- Models: Qwen/Alibaba, Google (Gemma), Meta (Llama)
-- Framework inspired by: AI safety evaluation practices, responsible disclosure principles
-
----
-
-## Disclaimer
-
-This project is for **defensive biosecurity research only**. It is not intended to enable harm. All models are evaluated to ensure they **do not** provide operational escalation for dangerous activities.
 
